@@ -3,7 +3,12 @@ body {
   text-align: center;
 }
 
-h1, h2, h3, h4, h5, h6 {
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
   font-family: "Montserrat";
   font-weight: bolder;
 }
@@ -33,7 +38,7 @@ p {
 
 /* sections */
 .colored-section {
-  background-color: #ff4c68;
+  background-color: #ff9aa2;
   color: #fff;
 }
 
@@ -100,7 +105,7 @@ p {
 }
 
 .icon {
-  color: #ef8172;
+  color: #ffdac1;
   font-size: 50px;
   padding-bottom: 8px;
 }
@@ -108,12 +113,12 @@ p {
 .icon:hover {
   font-size: 50px;
   padding-bottom: 8px;
-  color: #ff4c68;
+  color: #ff9aa2;
 }
 
 /* Testimonials Section*/
 #testimonials {
-  background-color: #ef8172;
+  background-color: #ffdac1;
 }
 
 .testimonial-text {
@@ -128,7 +133,7 @@ p {
 }
 
 #press {
-  background-color: #ef8172;
+  background-color: #ffdac1;
   padding-bottom: 3%;
 }
 
